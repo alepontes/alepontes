@@ -2,6 +2,7 @@
 - 👀 I’m interested in javascript and typescript
 - 🌱 I’m currently learning RxJS and Microservices
 - 📫 How to reach me https://www.linkedin.com/in/alexandre-pontes/
+- My profile on NPM https://www.npmjs.com/~alepontes
 
 <!---
 alepontes/alepontes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
